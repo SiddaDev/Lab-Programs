@@ -1,5 +1,5 @@
 # Lab-Programs
-Corrected Lab Programs and Compiled Output files, Enjoy The Privilege, Add -lm Flag while compiling Your 9th Program ex: gcc pro9.c -lm . Yokki Dokki!!!
+Corrected Lab Programs and Compiled Output files, Enjoy The Privilege, Add -lm Flag while compiling Your 9th Program ex: gcc Program_9.c -lm . Yokki Dokki!!!
 
 If Your Using a Phone click on settings on browser and change to Desktop site (or) Desktop Mode
 &
