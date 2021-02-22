@@ -10,10 +10,10 @@ void stringmatch(){
 			i++; m++;
 			if(pat[i] == '\0'){
 				flag = 1;
-				for(k = 0; rep[k] != '\0'; k++, j++){
+				for(k = 0; rep[k] != '\0'; k++, j++)
 					ans[j] = rep[k];
-					i = 0;
-					c = m;
+				i = 0;
+			        c = m;
 				}
 			}
 		else{
@@ -25,7 +25,6 @@ void stringmatch(){
 		}
 	}
 	ans[j] = '\0';
-        }
 }
 void main(){
 	printf("Enter a main string: ");
