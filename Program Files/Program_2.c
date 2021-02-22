@@ -25,6 +25,7 @@ void stringmatch(){
 		}
 	}
 	ans[j] = '\0';
+        }
 }
 void main(){
 	printf("Enter a main string: ");
